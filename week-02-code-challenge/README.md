@@ -56,7 +56,7 @@ Clearing the List:
 
 Click "Clear List" to remove all items.
 
-!! ------------------------ TECHNOLOGIES USED  ------------------------ !!
+!! ------------------------ TECHNOLOGIES USED  ------------------------- !!
 
 HTML
 CSS
