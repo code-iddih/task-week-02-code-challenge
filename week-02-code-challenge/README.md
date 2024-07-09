@@ -50,7 +50,7 @@ Click "Edit" on an item to change its name. Press Enter to save changes or Escap
 
 Deleting Items: 
 
-Click "Delete" to remove an item from the  list.
+Click "Delete" to remove an item from  the  list.
 
 Clearing the List: 
 
